@@ -1,6 +1,6 @@
-token= NTMwNzY4NDEyNjU4NjMwNjY3.DxN-XA.DY71JcA9hp7XlaSKddRoWTnLnKY
-owner=467023557281447936 
-prefix= *
-game= Louie 
+token= NTM1NTM0NDg2NDc4MTI3MTA0.DyNeGA.b7O4EpMygwuYlYrAqMYMSS2_3Is
+owner=467023557281447936
+prefix= L
+game= Lhelp
 stayinchannel=true  false
 songinstatus=false  true
